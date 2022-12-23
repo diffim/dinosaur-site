@@ -1,7 +1,9 @@
+// \[[0-9]+\] use this regEx to replace all wikipedia stuff
+
 export const STEGOSAURUS_PARAGRAPH = (
   <>
     <p>
-      Stegosaurus (/ˌstɛɡəˈsɔːrəs/;[1] lit. &#39;roof-lizard&#39;) is a genus of
+      Stegosaurus (/ˌstɛɡəˈsɔːrəs/; lit. &#39;roof-lizard&#39;) is a genus of
       herbivorous, four-legged, armored dinosaur from the Late Jurassic,
       characterized by the distinctive kite-shaped upright plates along their
       backs and spikes on their tails. Fossils of the genus have been found in
@@ -51,7 +53,7 @@ export const STEGOSAURUS_PARAGRAPH = (
 export const TRICERATOPS_PARAGRAPH = (
   <>
     <p>
-      Triceratops (/traɪˈsɛrətɒps/ try-SERR-ə-tops;[1] lit. &#39;three-horned
+      Triceratops (/traɪˈsɛrətɒps/ try-SERR-ə-tops; lit. &#39;three-horned
       face&#39;) is a genus of herbivorous chasmosaurine ceratopsid dinosaur
       that first appeared during the late Maastrichtian stage of the Late
       Cretaceous period, about 68 million years ago in what is now North
@@ -93,7 +95,7 @@ export const TRICERATOPS_PARAGRAPH = (
       Charles Marsh. Specimens representing life stages from hatchling to adult
       have been found. As the archetypal ceratopsid, Triceratops is one of the
       most popular dinosaurs, and has been featured in film, postal stamps, and
-      many other types of media.[2]
+      many other types of media.
     </p>
   </>
 );
@@ -120,10 +122,10 @@ export const TREX_PARAGRAPH = (
       most complete specimen measures up to 12.3–12.4 m (40.4–40.7 ft) in
       length; however, according to most modern estimates, T. rex could grow to
       lengths of over 12.4 m (40.7 ft), up to 3.66–3.96 m (12–13 ft) tall at the
-      hips, and 8.87 metric tons (9.78 short tons) in body mass.[2] Although
-      other theropods rivaled or exceeded Tyrannosaurus rex in size, it is still
-      among the largest known land predators and is estimated to have exerted
-      the strongest bite force among all terrestrial animals. By far the largest
+      hips, and 8.87 metric tons (9.78 short tons) in body mass. Although other
+      theropods rivaled or exceeded Tyrannosaurus rex in size, it is still among
+      the largest known land predators and is estimated to have exerted the
+      strongest bite force among all terrestrial animals. By far the largest
       carnivore in its environment, Tyrannosaurus rex was most likely an apex
       predator, preying upon hadrosaurs, juvenile armored herbivores like
       ceratopsians and ankylosaurs, and possibly sauropods. Some experts have
@@ -155,14 +157,14 @@ export const TREX_PARAGRAPH = (
 export const VELOCIRAPTOR_PARAGRAPH = (
   <>
     <p>
-      Velociraptor (/vəˌlɒsɪˈræptər, vəˈlɒsɪræptər/;[1] lit. &#39;swift
-      thief&#39;) is a genus of small dromaeosaurid dinosaur that lived in Asia
-      during the Late Cretaceous epoch, about 75 million to 71 million years
-      ago. Two species are currently recognized, although others have been
-      assigned in the past. The type species is V. mongoliensis; fossils of this
-      species have been discovered in the Djadochta Formation, Mongolia. A
-      second species, V. osmolskae, was named in 2008 for skull material from
-      the Bayan Mandahu Formation, China.
+      Velociraptor (/vəˌlɒsɪˈræptər, vəˈlɒsɪræptər/; lit. &#39;swift thief&#39;)
+      is a genus of small dromaeosaurid dinosaur that lived in Asia during the
+      Late Cretaceous epoch, about 75 million to 71 million years ago. Two
+      species are currently recognized, although others have been assigned in
+      the past. The type species is V. mongoliensis; fossils of this species
+      have been discovered in the Djadochta Formation, Mongolia. A second
+      species, V. osmolskae, was named in 2008 for skull material from the Bayan
+      Mandahu Formation, China.
     </p>
     <p>
       Smaller than other dromaeosaurids like Deinonychus and Achillobator,
@@ -194,15 +196,15 @@ export const SPINOSAURUS_PARAGRAPH = (
       Spinosaurus (/ˌspɪnəˈsɔːrəs/; lit. &#39;spine lizard&#39;) is a genus of
       spinosaurid dinosaur that lived in what now is North Africa during the
       Cenomanian to upper Turonian stages of the Late Cretaceous period, about
-      99 to 93.5 million years ago.[2][3] The genus was known first from
-      Egyptian remains discovered in 1912 and described by German
-      palaeontologist Ernst Stromer in 1915. The original remains were destroyed
-      in World War II, but additional material came to light in the early 21st
-      century. It is unclear whether one or two species are represented in the
-      fossils reported in the scientific literature. The best known species is
-      S. aegyptiacus from Egypt, although a potential second species, S.
-      maroccanus, has been recovered from Morocco. The contemporary spinosaurid
-      genus Sigilmassasaurus has also been synonymized by some authors with S.
+      99 to 93.5 million years ago. The genus was known first from Egyptian
+      remains discovered in 1912 and described by German palaeontologist Ernst
+      Stromer in 1915. The original remains were destroyed in World War II, but
+      additional material came to light in the early 21st century. It is unclear
+      whether one or two species are represented in the fossils reported in the
+      scientific literature. The best known species is S. aegyptiacus from
+      Egypt, although a potential second species, S. maroccanus, has been
+      recovered from Morocco. The contemporary spinosaurid genus
+      Sigilmassasaurus has also been synonymized by some authors with S.
       aegyptiacus, though other researchers propose it to be a distinct taxon.
       Another possible junior synonym is Oxalaia from the Alcântara Formation in
       Brazil.
@@ -213,7 +215,7 @@ export const SPINOSAURUS_PARAGRAPH = (
       Tyrannosaurus, Giganotosaurus and Carcharodontosaurus. The most recent
       study suggests that previous body size estimates are overestimated, and
       that S. aegyptiacus reached 14 metres (46 ft) in length and 7.4 metric
-      tons (8.2 short tons) in body mass.[4] The skull of Spinosaurus was long,
+      tons (8.2 short tons) in body mass. The skull of Spinosaurus was long,
       low, and narrow, similar to that of a modern crocodilian, and bore
       straight conical teeth with no serrations. It would have had large, robust
       forelimbs bearing three-fingered hands, with an enlarged claw on the first
@@ -221,10 +223,10 @@ export const SPINOSAURUS_PARAGRAPH = (
       extensions of the vertebrae (or backbones), grew to at least 1.65 meters
       (5.4 ft) long and were likely to have had skin connecting them, forming a
       sail-like structure, although some authors have suggested that the spines
-      were covered in fat and formed a hump.[5] The hip bones of Spinosaurus
-      were reduced, and the legs were very short in proportion to the body. Its
-      long and narrow tail was deepened by tall, thin neural spines and
-      elongated chevrons, forming a flexible fin or paddle-like structure.
+      were covered in fat and formed a hump. The hip bones of Spinosaurus were
+      reduced, and the legs were very short in proportion to the body. Its long
+      and narrow tail was deepened by tall, thin neural spines and elongated
+      chevrons, forming a flexible fin or paddle-like structure.
     </p>
     <p>
       Spinosaurus is known to have eaten fish, and most scientists believe that
@@ -242,15 +244,15 @@ export const SPINOSAURUS_PARAGRAPH = (
     <p>
       Six main partial specimens of Spinosaurus have been described. BSP 1912
       VIII 19, described by Stromer in 1915 from the Bahariya Formation, was the
-      holotype.[8][6] The material consisted of the following items, most of
-      which were incomplete: right and left dentaries and splenials from the
-      lower jaw measuring 75 centimeters (30 in) long; a straight piece of the
-      left maxilla that was described but not drawn; 20 teeth; 2 cervical
-      vertebrae; 7 dorsal (trunk) vertebrae; 3 sacral vertebrae; 1 caudal
-      vertebra; 4 thoracic ribs; and gastralia. Of the nine neural spines whose
-      heights are given, the longest (&quot;i,&quot; associated with a dorsal
-      vertebra) was 1.65 meters (5.4 ft) in length. Stromer claimed that the
-      specimen was from the early Cenomanian, about 97 million years ago.[8][6]
+      holotype. The material consisted of the following items, most of which
+      were incomplete: right and left dentaries and splenials from the lower jaw
+      measuring 75 centimeters (30 in) long; a straight piece of the left
+      maxilla that was described but not drawn; 20 teeth; 2 cervical vertebrae;
+      7 dorsal (trunk) vertebrae; 3 sacral vertebrae; 1 caudal vertebra; 4
+      thoracic ribs; and gastralia. Of the nine neural spines whose heights are
+      given, the longest (&quot;i,&quot; associated with a dorsal vertebra) was
+      1.65 meters (5.4 ft) in length. Stromer claimed that the specimen was from
+      the early Cenomanian, about 97 million years ago.
     </p>
     <p>
       It was destroyed in World War II, specifically &quot;during the night of
@@ -263,11 +265,11 @@ export const SPINOSAURUS_PARAGRAPH = (
       holotype specimen BSP 1912 VIII 19 discovered in the archives in 2000. On
       the basis of a photograph of the lower jaw and a photograph of the entire
       specimen as mounted, Smith concluded that Stromer&#39;s original 1915
-      drawings were slightly inaccurate.[6] In 2003, Oliver Rauhut suggested
-      that Stromer&#39;s Spinosaurus holotype was a chimera, composed of
-      vertebrae and neural spines from a carcharodontosaurid similar to
-      Acrocanthosaurus and a dentary from Baryonyx or Suchomimus.[16] The
-      analysis was rejected in at least one subsequent paper.[14]
+      drawings were slightly inaccurate. In 2003, Oliver Rauhut suggested that
+      Stromer&#39;s Spinosaurus holotype was a chimera, composed of vertebrae
+      and neural spines from a carcharodontosaurid similar to Acrocanthosaurus
+      and a dentary from Baryonyx or Suchomimus. The analysis was rejected in at
+      least one subsequent paper.
     </p>
     <p>
       NMC 50791, held by the Canadian Museum of Nature, is a mid-cervical
@@ -279,7 +281,7 @@ export const SPINOSAURUS_PARAGRAPH = (
       and an anterior dorsal neural arch (NMC 50813). Russell stated that
       &quot;only general locality information could be provided&quot; for the
       specimen, and therefore it could be dated only &quot;possibly&quot; to the
-      Albian.[7]
+      Albian.
     </p>
     <p>
       Specimen MNHN SAM 124 of S. maroccanus, Muséum National d&#39;Histoire
@@ -291,7 +293,7 @@ export const SPINOSAURUS_PARAGRAPH = (
       &quot;is of Albian age.&quot; Taquet and Russell believed that the
       specimen, along with a premaxilla fragment (SAM 125), two cervical
       vertebrae (SAM 126–127), and a dorsal neural arch (SAM 128), belonged to
-      S. maroccanus.[17]
+      S. maroccanus.
     </p>
     <p>
       BM231 (in the collection of the Office National des Mines, Tunis) was
@@ -299,7 +301,7 @@ export const SPINOSAURUS_PARAGRAPH = (
       anterior dentary 11.5 centimeters (4.5 in) in length from an early Albian
       stratum of the Chenini Formation of Tunisia. The dentary fragment, which
       included four alveoli and two partial teeth, was &quot;extremely
-      similar&quot; to existing material of S. aegyptiacus.[15]
+      similar&quot; to existing material of S. aegyptiacus.
     </p>
     <p>
       UCPC-2 in the University of Chicago Paleontological Collection consists
@@ -308,29 +310,29 @@ export const SPINOSAURUS_PARAGRAPH = (
       in) long, was located in an early Cenomanian part of the Moroccan Kem Kem
       Beds in 1996 and described in the scientific literature in 2005 by
       Cristiano Dal Sasso of the Civic Natural History Museum in Milan and
-      colleagues.[14]
+      colleagues.
     </p>
     <p>
       Specimen MSNM V4047 of S. aegyptiacus in the Civic Natural History Museum,
       Milan MSNM V4047 (in the Museo di Storia Naturale di Milano), described by
       Dal Sasso and colleagues in 2005, consists of a snout (premaxillae,
       partial maxillae, and partial nasals) 98.8 centimeters (38.9 in) long from
-      the Kem Kem Beds.[14] Like UCPC-2, it is thought to have come from the
-      early Cenomanian. Arden and colleagues in 2018 tentatively assigned this
-      specimen to Sigilmassasaurus brevicollis given its size.[18] However, this
+      the Kem Kem Beds. Like UCPC-2, it is thought to have come from the early
+      Cenomanian. Arden and colleagues in 2018 tentatively assigned this
+      specimen to Sigilmassasaurus brevicollis given its size. However, this
       assignment was later rejected by other researchers who considered the
       uniqueness of this specimen to be based on misinterpretations and poor
       preservation of another specimen, NHMUK R16665, another snout stored that
-      is stored in the Natural History Museum, London.[1]
+      is stored in the Natural History Museum, London.
     </p>
     <p>
       FSAC-KK 11888 is a partial subadult skeleton recovered from the Kem Kem
       beds of North Africa. Described by Ibrahim and colleagues (2014) and
       designated as the neotype specimen (although Evers and colleagues 2015
-      reject the neotype designation for FSAC-KK-11888).[19] It includes
-      cervical vertebrae, dorsal vertebrae, neural spines, a complete sacrum,
-      femora, tibiae, pedal phalanges, caudal vertebra, several dorsal ribs, and
-      fragments of the skull.[20] The body proportions of the specimen have been
+      reject the neotype designation for FSAC-KK-11888). It includes cervical
+      vertebrae, dorsal vertebrae, neural spines, a complete sacrum, femora,
+      tibiae, pedal phalanges, caudal vertebra, several dorsal ribs, and
+      fragments of the skull. The body proportions of the specimen have been
       debated, as the hind limbs are disproportionately shorter in the specimen
       than in previous reconstructions. However, it has been demonstrated by
       multiple paleontologists that the specimen is not a chimera, and is indeed
