@@ -103,7 +103,7 @@ export const TRICERATOPS_PARAGRAPH = (
 export const TREX_PARAGRAPH = (
   <>
     <p>
-      Tyrannosaurus[nb 1] is a genus of large theropod dinosaur. The species
+      Tyrannosaurus is a genus of large theropod dinosaur. The species
       Tyrannosaurus rex (rex meaning &quot;king&quot; in Latin), often called T.
       rex or colloquially T-Rex, is one of the best represented theropods.
       Tyrannosaurus lived throughout what is now western North America, on what
